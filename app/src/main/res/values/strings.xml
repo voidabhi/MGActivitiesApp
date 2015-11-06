@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyGolaActivitiesApp</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="nav_drawer_items">
+
+        <item>Schools</item>
+        <item>Districts</item>
+    </string-array>
+
+
+    <array name="nav_drawer_icons">
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+    </array>
+
+</resources>
